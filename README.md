@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="http://github.com/4rsl">Semih</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="http://github.com/ppoptart12">Semih</a> 👋</h1>
 
 ✉️ Feel free to connect with me on <a href="https://www.linkedin.com/in/semih-gultekin/"><img src="https://img.shields.io/badge/-Semih%20Gultekin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Skills
