@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm <a href="http://github.com/4rsl">Link</a> 👋🏾</h1>
-<p align="center">🌍 Social Activist | 💼 Entrepreneur | 🎺 Euphonist | 🤖 NLP Enthusiast</p>
+<h1 align="center">Hi, I'm <a href="http://github.com/4rsl">Semih</a> 👋</h1>
 
 
 
